@@ -3,3 +3,4 @@
 It will also disallow you to write any files to startup/sys32.
 But for some reason it doesn't flag creation of a scheduled task from COM Objects, bind your UAC Bypass and it will become a weaponized feature for your crypts/applications.
 ![Video](https://github.com/sexyiam/360.cn-Persistance/raw/main/sample.mp4)
+<video src='https://github.com/sexyiam/360.cn-Persistance/raw/main/sample.mp4' width=180/>
